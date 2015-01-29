@@ -1,1 +1,4 @@
-# NOTE: This repository is now frozen, and we are no longer accepted changes to it.  Instead, please see [http://software-carpentry.org/lessons.html](http://software-carpentry.org/lessons.html) for links to our revised lessons (Version 5.3 beta), and [http://software-carpentry.org/pages/dashboard.html](http://software-carpentry.org/pages/dashboard.html) for outstanding issues.  The old content of this page is available at [http://swcarpentry.github.io/bc/legacy-page.html](http://swcarpentry.github.io/bc/legacy-page.html).
+This repo contains data and lessons materials for the NCSU Software Carpentry workshop in Jan 2015. 
+
+Website: http://kcranston.github.io/2015-01-29-ncsu/
+
